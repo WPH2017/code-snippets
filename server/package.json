@@ -1,0 +1,31 @@
+{
+  "name": "code",
+  "version": "0.0.1",
+  "description": "improve yourself by every keypress and the mind storm and your util dream",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WPH2017/code-snippets.git"
+  },
+  "keywords": [
+    "code",
+    "improve"
+  ],
+  "author": "wph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WPH2017/code-snippets/issues"
+  },
+  "homepage": "https://github.com/WPH2017/code-snippets#readme",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}

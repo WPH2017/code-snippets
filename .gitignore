@@ -65,3 +65,6 @@ typings/
 build/
 public/
 dist/
+
+# test
+coverage/
