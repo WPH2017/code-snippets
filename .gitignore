@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# editor
+.idea/
+.vscode/
+
+# build files
+build/
+public/
+dist/
