@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/WPH2017/code-snippets#readme",
   "dependencies": {
-    "koa": "^2.4.1"
+    "koa": "^2.4.1",
+    "mongoose": "^4.13.4"
   }
 }
