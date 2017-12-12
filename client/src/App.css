@@ -24,7 +24,20 @@
   font-size: large;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.ant-layout-header {
+  background: #fff;
+}
+
+.ant-layout-footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+#account span {
+  vertical-align: middle;
+}
+
+#account-avatar {
+  margin-left: 20px;
 }
